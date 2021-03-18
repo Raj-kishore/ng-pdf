@@ -1,0 +1,1 @@
+      //this.apicommonservice.getRequest(`../../../assets/json/takeassessmentAPI.json`, 'GET')
